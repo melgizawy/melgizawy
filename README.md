@@ -261,11 +261,17 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 
 ---
 
+---
+
 <div align="center">
 
 ### 💬 **"Uptime isn't luck—it's systematic excellence."**
 
-![Visitor Count](https://profile-counter.glitch.me/melgizawy/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melgizawy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/melgizawy?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/melgizawy?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
 
 ⭐ **If you find my work helpful, consider giving my repositories a star!** ⭐
 
