@@ -1,19 +1,11 @@
-<!-- Mohammad Elgizawy | Cloud Engineer -->
-
-<h1 align="center">👋 Hey there, I'm Mohammad Elgizawy!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cloud+Engineer;Innovator+%26+Huawei+Enthusiast;Aspiring+Solution+Architect" alt="Typing SVG" />
-</p>
-
----
+# 👋 Hi, I'm Mohammad Elgizawy
 
 ## 🚀 About Me
 🎯 ***Mission:*** To deliver **world-class cloud support** and **optimize multi-cloud infrastructure** for maximum uptime and performance  
 💡 ***Vision:*** To bridge technical excellence with exceptional customer service in the **Cloud Computing & Technical Support domain**  
-🔥 ***Passion:*** **Cloud Support Engineer & Multi-Cloud Specialist** with a deep love for **troubleshooting, infrastructure optimization, and 24/7 customer success**.  
-I thrive on maintaining **99.9% uptime**, resolving **complex technical incidents**, and implementing **proactive monitoring solutions**.  
-🛠 ***Strengths:*** **Incident Management, Root Cause Analysis, Cloud Infrastructure (Huawei, AWS, Azure, GCP), VPC Configuration, Performance Optimization**  
+🔥 ***Passion:*** **Cloud Support Engineer & Multi-Cloud Specialist** with a deep love for **troubleshooting, automation, infrastructure optimization, and 24/7 customer success**.  
+I thrive on maintaining **99.9% uptime**, resolving **complex technical incidents**, implementing **proactive monitoring solutions**, and automating deployments for maximum efficiency.  
+🛠 ***Strengths:*** **Incident Management, Root Cause Analysis, Cloud Infrastructure (Huawei, Oracle, AWS, Azure, GCP), VPC Configuration, Bash Automation, Performance Optimization**  
 📚 ***Learning:*** **HCIP-Solution Architect, HCIA-Datacom, HCIA-Security, RHCSA (Red Hat Certified System Administrator)**  
 📢 ***Motto:*** _"Uptime isn't luck—it's systematic excellence."_
 
@@ -22,11 +14,12 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 ## 📊 **Quick Stats**
 ```
 🔹 6+ Years of Technical Support Experience
-🔹 15+ Cloud Certifications (Huawei, AWS, Azure, GCP, Cisco)
+🔹 19+ Cloud Certifications (Huawei, Oracle, AWS, Azure, GCP, Cisco)
 🔹 99.9% Infrastructure Uptime Maintained
 🔹 95% First-Contact Resolution Rate
 🔹 100+ Technical Incidents Resolved
 🔹 50+ Clients Served Globally
+🔹 92% Deployment Time Reduction through Automation
 ```
 
 ---
@@ -84,12 +77,13 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 
 | **Category** | **Technologies** |
 |--------------|------------------|
-| **☁️ Cloud Platforms** | ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?logo=huawei&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) |
+| **☁️ Cloud Platforms** | ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?logo=huawei&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) |
 | **🖥️ Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) |
 | **💻 Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| **📊 Monitoring & Support** | ![Cloud Eye](https://img.shields.io/badge/Cloud_Eye-FF0000?logo=huawei&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) |
+| **📊 Monitoring & Support** | ![Cloud Eye](https://img.shields.io/badge/Cloud_Eye-FF0000?logo=huawei&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) |
 | **🌐 Networking** | ![VPC](https://img.shields.io/badge/VPC-232F3E?logo=amazon-aws&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?logo=cisco&logoColor=white) ![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?logo=amazon-aws&logoColor=white) |
 | **🗄️ Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **⚙️ DevOps & Automation** | ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?logo=amazon-aws&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00ADD8?logo=terraform&logoColor=white) |
 
 ---
 
@@ -140,6 +134,23 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 ---
 
 ## 📂 **Featured Projects**
+
+### ☁️ **AWS S3 Static Website Hosting & Automation**
+> Production-grade static website deployment with advanced automation and disaster recovery
+
+**Tech Stack:** AWS S3, IAM, CloudWatch, Bash, AWS CLI, HTML/CSS/JS  
+**Key Features:**
+- ⚡ 15+ Bash automation scripts reducing deployment time by 92% (60→5 minutes)
+- 🔄 Cross-region disaster recovery with RPO <15 minutes achieving 99.99% availability
+- 💰 95% cost reduction compared to traditional hosting solutions
+- 📚 Comprehensive documentation (100+ pages, 38 screenshots) for knowledge transfer
+- 🔐 IAM best practices and security hardening implementation
+
+**Impact:** Transformed manual 60-minute deployments into automated 5-minute processes
+
+**Repository:** [github.com/melgizawy/aws-s3-portfolio](https://github.com/melgizawy/aws-s3-portfolio)
+
+---
 
 ### ☁️ **Huawei Cloud Infrastructure Management & Support**
 > Complete cloud infrastructure solution with advanced monitoring and auto-scaling
@@ -215,13 +226,19 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 ## 🌟 **Certifications & Achievements**
 
 ```
-✅ 15+ Cloud Certifications across 5 major vendors
+✅ 19+ Cloud Certifications across 6 major vendors
+✅ 4 Huawei Certifications (Cloud Service, Cloud Computing, AI, Tech Essential)
+✅ 3 Oracle Cloud Certifications (AI, Architect, Foundations)
+✅ 3 AWS Certifications (Solutions Architect, AI Practitioner, Cloud Practitioner)
+✅ 3 Azure Certifications (Fundamentals, AI, Data)
 ✅ 99.9% Uptime Achievement across 50+ infrastructures
 ✅ 95% First-Contact Resolution Rate
+✅ 92% Deployment Time Reduction through automation
+✅ 95% Cost Reduction in cloud hosting
 ✅ 37.5% Improvement in Incident Resolution Time
-✅ 30% Cost Reduction through optimization
 ✅ 60% Faster Incident Detection
 ✅ Mentored 3 Junior Administrators
+✅ 100+ pages comprehensive documentation created
 ```
 
 ---
@@ -261,17 +278,11 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 
 ---
 
----
-
 <div align="center">
 
 ### 💬 **"Uptime isn't luck—it's systematic excellence."**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melgizawy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/melgizawy?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/melgizawy?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=melgizawy&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **If you find my work helpful, consider giving my repositories a star!** ⭐
 
@@ -290,9 +301,10 @@ _Coming soon! Stay tuned for technical articles on cloud infrastructure, trouble
 
 <div align="center">
 
-![Huawei Certified](https://img.shields.io/badge/Huawei-HCIA%20Certified-red?style=for-the-badge&logo=huawei)
-![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws)
-![Azure Certified](https://img.shields.io/badge/Azure-Fundamentals-blue?style=for-the-badge&logo=microsoft-azure)
+![Huawei Certified](https://img.shields.io/badge/Huawei-4%20Certifications-red?style=for-the-badge&logo=huawei)
+![Oracle Certified](https://img.shields.io/badge/Oracle_Cloud-3%20Certifications-F80000?style=for-the-badge&logo=oracle)
+![AWS Certified](https://img.shields.io/badge/AWS-3%20Certifications-orange?style=for-the-badge&logo=amazon-aws)
+![Azure Certified](https://img.shields.io/badge/Azure-3%20Certifications-blue?style=for-the-badge&logo=microsoft-azure)
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-blue?style=for-the-badge&logo=google-cloud)
 
@@ -306,7 +318,3 @@ _Coming soon! Stay tuned for technical articles on cloud infrastructure, trouble
 **Feel free to reach out for collaborations, questions, or just to connect!** 🤝
 
 </div>
----
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
