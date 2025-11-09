@@ -66,10 +66,17 @@ I thrive on maintaining **99.9% uptime**, resolving **complex technical incident
 - AI-900: Azure AI Fundamentals (June 2025)
 - DP-900: Azure Data Fundamentals (June 2025)
 
+**Oracle Cloud Certifications:**
+- OCI 2025 Certified AI Foundations Associate (Oct 2025)
+- OCI 2025 Certified Architect Associate (Oct 2025)
+- OCI 2025 Certified Foundations Associate (Jul 2025)
+
 **Other:**
+- Green Digital Certificate (GDC2025) - INCO Academy (Nov 2025)
 - CCNA – Cisco Certified Network Associate (June 2025)
 - Cloud Digital Leader – Google Cloud (Aug 2024)
 - GitHub Foundation Certification (Nov 2024)
+- McKinsey Forward Program - McKinsey & Company (May 2023)
 
 ---
 
